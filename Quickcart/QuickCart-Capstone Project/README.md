@@ -1,4 +1,4 @@
-# QuickCart - Walmart Hackathon Project
+# QuickCart - Capstone Project
 
 A modern, mobile-first e-commerce web application designed to enhance the digital shopping experience. This project was built for the Walmart Hackathon.
 
