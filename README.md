@@ -1,7 +1,7 @@
 # QUICKCART Capstone Project – Frontend Web Application
 
 ## Overview
-This project is a frontend web application developed as part of a **group academic hackathon** inspired by real-world retail and e-commerce systems. The application focuses on building a **modern, responsive, and scalable user interface** using contemporary frontend technologies. The project demonstrates practical implementation of industry-standard tools, clean UI design principles, and collaborative development practices.
+This project is a frontend web application developed as part of a **group academic capstone project** inspired by real-world retail and e-commerce systems. The application focuses on building a **modern, responsive, and scalable user interface** using contemporary frontend technologies. The project demonstrates practical implementation of industry-standard tools, clean UI design principles, and collaborative development practices.
 
 The application is designed to resemble how frontend systems are built in large-scale product-based companies, with an emphasis on maintainability, performance, and user experience.
 
